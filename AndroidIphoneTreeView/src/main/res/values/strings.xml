@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IPhoneTreeView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_title">FloatingGroupExpandableListView</string>
+    <string name="android_versions_title">Android Versions</string>
+    <string name="android_versions_description">Starting from Cupcake (API LEVEL 3)</string>
+
+</resources>
