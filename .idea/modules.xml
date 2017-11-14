@@ -3,8 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidIphoneTreeView/AndroidIphoneTreeView.iml" filepath="$PROJECT_DIR$/AndroidIphoneTreeView/AndroidIphoneTreeView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidIphoneTreeView/AndroidIphoneTreeView.iml" filepath="$PROJECT_DIR$/AndroidIphoneTreeView/AndroidIphoneTreeView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExpandableListViewUi/ExpandableListViewUi.iml" filepath="$PROJECT_DIR$/ExpandableListViewUi/ExpandableListViewUi.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExpandableListViewUi/ExpandableListViewUi.iml" filepath="$PROJECT_DIR$/ExpandableListViewUi/ExpandableListViewUi.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyExpandableListView.iml" filepath="$PROJECT_DIR$/MyExpandableListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyExpandableListView.iml" filepath="$PROJECT_DIR$/MyExpandableListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/normalExpandableListView/normalExpandableListView.iml" filepath="$PROJECT_DIR$/normalExpandableListView/normalExpandableListView.iml" />
       <module fileurl="file://$PROJECT_DIR$/normalExpandableListView/normalExpandableListView.iml" filepath="$PROJECT_DIR$/normalExpandableListView/normalExpandableListView.iml" />
     </modules>
   </component>

@@ -1,15 +1,12 @@
 package com.cqc.expandablelistviewdemo01;
 
-import android.database.DataSetObserver;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseExpandableListAdapter;
-import android.widget.ExpandableListAdapter;
 import android.widget.ExpandableListView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -67,33 +64,13 @@ public class MainActivity extends AppCompatActivity {
         }
 
         @Override
-        public int getChildrenCount(int i) {
-            return childArray[i].length;
-        }
-
-        @Override
         public Object getGroup(int i) {
             return groupArray[i];
         }
 
         @Override
-        public Object getChild(int i, int i1) {
-            return childArray[i][i1];
-        }
-
-        @Override
         public long getGroupId(int i) {
             return 0;
-        }
-
-        @Override
-        public long getChildId(int i, int i1) {
-            return 0;
-        }
-
-        @Override
-        public boolean hasStableIds() {
-            return true;
         }
 
         @Override
@@ -108,6 +85,21 @@ public class MainActivity extends AppCompatActivity {
             }
             holder.tv_group.setText(groupArray[i]);
             return convertView;
+        }
+
+        @Override
+        public int getChildrenCount(int i) {
+            return childArray[i].length;
+        }
+
+        @Override
+        public Object getChild(int i, int i1) {
+            return childArray[i][i1];
+        }
+
+        @Override
+        public long getChildId(int i, int i1) {
+            return 0;
         }
 
         @Override
@@ -126,6 +118,11 @@ public class MainActivity extends AppCompatActivity {
 
         @Override
         public boolean isChildSelectable(int i, int i1) {
+            return true;
+        }
+
+        @Override
+        public boolean hasStableIds() {
             return true;
         }
     }

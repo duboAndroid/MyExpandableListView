@@ -1,17 +1,11 @@
 package com.way.iphonetreeview;
 
 import android.content.Intent;
-import android.graphics.Color;
-import android.graphics.PorterDuff;
-import android.graphics.drawable.ColorDrawable;
-import android.graphics.drawable.Drawable;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.LayoutInflater;
 import android.view.View;
-import android.widget.ImageView;
-import android.widget.TextView;
 
 import com.way.view.FloatingGroupExpandableListView;
 import com.way.view.WrapperExpandableListAdapter;
@@ -43,7 +37,8 @@ public class MainActivity extends AppCompatActivity {
 
         // Even though the child divider has already been set on the layout file, we have to set it again here
         // This prevents a bug where the background turns to the color of the child divider when the list is expanded
-        list.setChildDivider(new ColorDrawable(Color.BLACK));
+
+        //list.setChildDivider(new ColorDrawable(Color.BLACK));
 
         final SampleAdapter adapter = new SampleAdapter(this);
         final WrapperExpandableListAdapter wrapperAdapter = new WrapperExpandableListAdapter(adapter);
@@ -53,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
             list.expandGroup(i);
         }
 
-        list.setOnScrollFloatingGroupListener(new FloatingGroupExpandableListView.OnScrollFloatingGroupListener() {
+        /*list.setOnScrollFloatingGroupListener(new FloatingGroupExpandableListView.OnScrollFloatingGroupListener() {
 
             @Override
             public void onScrollFloatingGroupListener(View floatingGroupView, int scrollY) {
@@ -87,6 +82,6 @@ public class MainActivity extends AppCompatActivity {
                 final Drawable expandedDrawable = expanded.getDrawable().mutate();
                 expandedDrawable.setColorFilter(whiteToBlackColor, PorterDuff.Mode.SRC_ATOP);
             }
-        });
+        });*/
     }
 }

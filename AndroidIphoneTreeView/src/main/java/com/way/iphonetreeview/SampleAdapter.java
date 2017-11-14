@@ -81,9 +81,9 @@ public class SampleAdapter extends BaseExpandableListAdapter {
 		final TextView text = (TextView) convertView.findViewById(R.id.sample_activity_list_group_item_text);
 		text.setText(mGroups[groupPosition]);
 		
-		final ImageView expandedImage = (ImageView) convertView.findViewById(R.id.sample_activity_list_group_expanded_image);
+		/*final ImageView expandedImage = (ImageView) convertView.findViewById(R.id.sample_activity_list_group_expanded_image);
 		final int resId = isExpanded ? R.drawable.minus : R.drawable.plus;
-		expandedImage.setImageResource(resId);
+		expandedImage.setImageResource(resId);*/
 
 		return convertView;
 	}
