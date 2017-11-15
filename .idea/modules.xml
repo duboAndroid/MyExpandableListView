@@ -3,12 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidIphoneTreeView/AndroidIphoneTreeView.iml" filepath="$PROJECT_DIR$/AndroidIphoneTreeView/AndroidIphoneTreeView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AndroidIphoneTreeView/AndroidIphoneTreeView.iml" filepath="$PROJECT_DIR$/AndroidIphoneTreeView/AndroidIphoneTreeView.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExpandableListViewUi/ExpandableListViewUi.iml" filepath="$PROJECT_DIR$/ExpandableListViewUi/ExpandableListViewUi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ExpandableListViewUi/ExpandableListViewUi.iml" filepath="$PROJECT_DIR$/ExpandableListViewUi/ExpandableListViewUi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExpandableListviewDemo-master/ExpandableListviewDemo-master.iml" filepath="$PROJECT_DIR$/ExpandableListviewDemo-master/ExpandableListviewDemo-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyExpandableListView.iml" filepath="$PROJECT_DIR$/MyExpandableListView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyExpandableListView.iml" filepath="$PROJECT_DIR$/MyExpandableListView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/normalExpandableListView/normalExpandableListView.iml" filepath="$PROJECT_DIR$/normalExpandableListView/normalExpandableListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customexpandablelistview/customexpandablelistview.iml" filepath="$PROJECT_DIR$/customexpandablelistview/customexpandablelistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expandablelistview-master/expandablelistview-master.iml" filepath="$PROJECT_DIR$/expandablelistview-master/expandablelistview-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expandablelistview-master2/expandablelistview-master2.iml" filepath="$PROJECT_DIR$/expandablelistview-master2/expandablelistview-master2.iml" />
       <module fileurl="file://$PROJECT_DIR$/normalExpandableListView/normalExpandableListView.iml" filepath="$PROJECT_DIR$/normalExpandableListView/normalExpandableListView.iml" />
     </modules>
   </component>

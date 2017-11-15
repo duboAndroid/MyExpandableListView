@@ -1,1 +1,1 @@
-include ':normalExpandableListView', ':ExpandableListViewUi', ':AndroidIphoneTreeView'
+include ':normalExpandableListView', ':ExpandableListViewUi', ':AndroidIphoneTreeView', ':customexpandablelistview', ':expandablelistview-master', ':expandablelistview-master2', ':ExpandableListviewDemo-master'

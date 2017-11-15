@@ -253,14 +253,11 @@ public class FloatingGroupExpandableListView extends ExpandableListView {
 						if (mFloatingGroupView != null) {
 							mFloatingGroupView.setPressed(true);
 						}
-
 						removeCallbacks(mClearSelectorOnTapAction);
 						postDelayed(mClearSelectorOnTapAction, ViewConfiguration.getPressedStateDuration());
-
 						break;
 					}
 				}
-
 				if(mFloatingGroupView.dispatchTouchEvent(ev)) {
 					mGestureDetector.onTouchEvent(ev);
 					onInterceptTouchEvent(ev);

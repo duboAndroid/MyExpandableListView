@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
         expanListView.setOnGroupExpandListener(new ExpandableListView.OnGroupExpandListener() {
             @Override
             public void onGroupExpand(int i) {
-                ToastUtil.showShortToast(MainActivity.this,  groupArray[i]);
+                ToastUtil.showShortToast(MainActivity.this, groupArray[i]);
             }
         });
     }
