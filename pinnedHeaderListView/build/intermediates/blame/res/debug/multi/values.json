@@ -1,0 +1,89 @@
+[
+    {
+        "outputFile": "C:\\Users\\dubo\\Desktop\\MyExpandableListView\\pinnedHeaderListView\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 227,
+                    "endColumn": 19,
+                    "endOffset": 6053
+                },
+                "from": {
+                    "file": "C:\\Users\\dubo\\Desktop\\MyExpandableListView\\pinnedHeaderListView\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 60,
+                        "endLine": 228,
+                        "endColumn": 19,
+                        "endOffset": 6058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 6058,
+                    "endColumn": 42,
+                    "endOffset": 6096
+                },
+                "from": {
+                    "file": "C:\\Users\\dubo\\Desktop\\MyExpandableListView\\pinnedHeaderListView\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 42,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 6101,
+                    "endLine": 235,
+                    "endColumn": 12,
+                    "endOffset": 6387
+                },
+                "from": {
+                    "file": "C:\\Users\\dubo\\Desktop\\MyExpandableListView\\pinnedHeaderListView\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 6392,
+                    "endLine": 238,
+                    "endColumn": 12,
+                    "endOffset": 6547
+                },
+                "from": {
+                    "file": "C:\\Users\\dubo\\Desktop\\MyExpandableListView\\pinnedHeaderListView\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

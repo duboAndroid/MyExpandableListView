@@ -10,11 +10,13 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/AndroidIphoneTreeView" />
             <option value="$PROJECT_DIR$/ExpandableListViewUi" />
-            <option value="$PROJECT_DIR$/ExpandableListviewDemo-master" />
+            <option value="$PROJECT_DIR$/ExpandableListviewDemo_1" />
             <option value="$PROJECT_DIR$/customexpandablelistview" />
             <option value="$PROJECT_DIR$/expandablelistview-master" />
             <option value="$PROJECT_DIR$/expandablelistview-master2" />
             <option value="$PROJECT_DIR$/normalExpandableListView" />
+            <option value="$PROJECT_DIR$/pinnedHeaderExpandable_2" />
+            <option value="$PROJECT_DIR$/pinnedHeaderListView" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\MyExpandableListView\\pinnedHeaderExpandable_2\\build\\intermediates\\res\\merged\\debug\\layout\\group.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\MyExpandableListView\\pinnedHeaderExpandable_2\\src\\main\\res\\layout\\group.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\MyExpandableListView\\pinnedHeaderExpandable_2\\build\\intermediates\\res\\merged\\debug\\layout\\child.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\MyExpandableListView\\pinnedHeaderExpandable_2\\src\\main\\res\\layout\\child.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\MyExpandableListView\\pinnedHeaderExpandable_2\\build\\intermediates\\res\\merged\\debug\\layout\\group_head.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\MyExpandableListView\\pinnedHeaderExpandable_2\\src\\main\\res\\layout\\group_head.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\MyExpandableListView\\pinnedHeaderExpandable_2\\build\\intermediates\\res\\merged\\debug\\layout\\layout_main.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\MyExpandableListView\\pinnedHeaderExpandable_2\\src\\main\\res\\layout\\layout_main.xml"
+    }
+]

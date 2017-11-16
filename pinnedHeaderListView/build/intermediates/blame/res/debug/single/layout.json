@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\MyExpandableListView\\pinnedHeaderListView\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\MyExpandableListView\\pinnedHeaderListView\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\MyExpandableListView\\pinnedHeaderListView\\build\\intermediates\\res\\merged\\debug\\layout\\listview_head.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\MyExpandableListView\\pinnedHeaderListView\\src\\main\\res\\layout\\listview_head.xml"
+    },
+    {
+        "merged": "C:\\Users\\dubo\\Desktop\\MyExpandableListView\\pinnedHeaderListView\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item.xml",
+        "source": "C:\\Users\\dubo\\Desktop\\MyExpandableListView\\pinnedHeaderListView\\src\\main\\res\\layout\\listview_item.xml"
+    }
+]
